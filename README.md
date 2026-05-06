@@ -30,7 +30,7 @@ Robotics engineer · Research Scientist @TUM · LiDAR-based SLAM & localization 
 - Anchor-LIO &nbsp; ![](https://img.shields.io/badge/-coming%20soon-555?style=flat-square)
 
 **Point Cloud Tools**
-- [PointCloudCrafter](https://github.com/TUMFTM/PointCloudCrafter) — A toolkit for extracting, manipulating, and evaluating point clouds and 3D spatial maps
+- [PointCloudCrafter](https://github.com/TUMFTM/PointCloudCrafter) — A toolkit for extracting, manipulating, and evaluating point clouds and 3D maps
 - [pyPointcloud](https://github.com/ga58lar/pyPointCloud) — Lightweight Python library for loading PCD files directly into NumPy arrays
 - [featherToPCD](https://github.com/ga58lar/featherToPcd) — Convert a .feather point cloud file to a .pcd file
 
