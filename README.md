@@ -4,7 +4,7 @@
 
 ## Hi, I'm Dominik 👋
 
-Robotics engineer · Research Scientist @TUM · LiDAR-based SLAM & localization · Point cloud specialist
+Robotics engineer · Research Scientist @TUM · SLAM & localization
 
 <br>
 
@@ -27,7 +27,6 @@ Robotics engineer · Research Scientist @TUM · LiDAR-based SLAM & localization 
 
 **SLAM, Localization & Mapping**
 - [OpenLiDARMap](https://github.com/TUMFTM/OpenLiDARMap) — Zero-Drift Point Cloud Mapping using Map Priors
-- Anchor-LIO &nbsp; ![](https://img.shields.io/badge/-coming%20soon-555?style=flat-square)
 
 **Point Cloud Tools**
 - [PointCloudCrafter](https://github.com/TUMFTM/PointCloudCrafter) — A toolkit for extracting, manipulating, and evaluating point clouds and 3D maps
@@ -43,4 +42,3 @@ Robotics engineer · Research Scientist @TUM · LiDAR-based SLAM & localization 
 
 **Others**
 - [2to3D](https://github.com/ga58lar/2to3D) — Create 3-dimensional building models from 2-dimensional floorplans
-- lanelet2Elevator &nbsp; ![](https://img.shields.io/badge/-coming%20soon-555?style=flat-square)
