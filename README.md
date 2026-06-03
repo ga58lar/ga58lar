@@ -4,7 +4,7 @@
 
 ## Hi, I'm Dominik 👋
 
-Robotics engineer · Research Scientist @TUM · SLAM & localization
+robotics engineer · research scientist @TUM · SLAM & localization
 
 <br>
 
